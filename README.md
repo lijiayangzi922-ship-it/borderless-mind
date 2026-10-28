@@ -10,7 +10,7 @@
 
 ## 完整源码
 
-为便于传输，完整网站文件存放在 `site-source.zip.part01` 至 `part06` 中，清单与 SHA-256 校验值位于 `source-manifest.json`。
+为便于传输，完整网站文件存放在 `site-source.zip.part01` 至 `part21` 中，清单与 SHA-256 校验值位于 `source-manifest.json`。
 
 下载仓库全部文件后运行 `python3 expand-site.py`，即可校验并将全部可编辑 HTML、CSS、JS、字体、图片和视频还原到 `_site` 目录。直接打开 `_site/index.html` 即可本地浏览。
 
